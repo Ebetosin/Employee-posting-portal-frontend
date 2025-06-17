@@ -1,0 +1,15 @@
+.navbar {
+  background-color: #0d6efd; /* Bootstrap blue */
+}
+
+.navbar .nav-link {
+  margin-left: 0;
+  margin-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+  .navbar .nav-link {
+    margin-left: 20px;
+    margin-bottom: 0;
+  }
+}
