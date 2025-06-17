@@ -1,4 +1,4 @@
-An interactive React app to explore towers, select floors, and view apartment layouts with hover effects and navigation.
+An interactive React app to post employees to different departments.
 
 A prototype React app that allows users to:
 - Post employee using a form
